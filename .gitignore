@@ -1,0 +1,7 @@
+/target/
+output/
+*.project
+*.settings/
+*.html
+*.swp
+*.classpath
